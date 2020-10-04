@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Recordata</string>
+    <string name="roll">Carrete</string>
+    <string name="boton">Nuevo carrete</string>
+    <string name="color">Color</string>
+    <string name="bw">B&amp;W</string>
+    <!-- Main menu -->
+    <string name="fotos">Fotos</string>
+    <string name="carrete">Carretes</string>
+    <string name="mapa">Mapa</string>
+    <string name="conf">Configuración</string>
+    <!-- Roll manager -->
+    <string name="end_roll">Sacar carrete</string>
+    <!-- Creación de imagen -->
+    <string name="primera_foto">Primera foto:</string>
+    <string name="ultima_foto">Última foto:</string>
+    <string name="descripcion">Descripción</string>
+    <string name="objetivos">Objetivo</string>
+    <string name="apertura">Apertura</string>
+    <string name="velocidad">Velocidad</string>
+    <string name="crear_imagen">Añadir imagen</string>
+    <!---->
+    <!--Los objetivos-->
+    <string name="lens_50mm">G. Zuiko 50mm f1,4</string>
+    <string name="lens_35mm">G. Zuiko 35mm f2,8</string>
+    <string name="lens_150mm">Zuiko 75-150mm f4</string>
+    <string name="lens_135mm">Vivitar 135mm f2,8</string>
+    <!-- Carretes de color -->
+    <string-array name="rolls_color_array">
+        <item>Kodak Colorplus 200</item>
+        <item>Kodak Ektar 100</item>
+        <item>Fuji C200</item>
+        <item>Kodak Gold</item>
+        <item>Kodak Portra 160</item>
+        <item>Kodak Portra 400</item>
+        <item>Kodak Portra 800</item>
+        <item>Fuji Pro 400H</item>
+    </string-array>
+    <!-- Carretes de blanco y negro-->
+    <string-array name="rolls_bw_array">
+        <item>Fuji Acros 100</item>
+        <item>Ilford FP4</item>
+        <item>Kodak Tri-X</item>
+        <item>Ilford Delta 400</item>
+        <item>Ilford HP5</item>
+        <item>Delta 3200</item>
+    </string-array>
+    <!-- Objetivos -->
+    <string-array name="objetivos">
+        <item>G. Zuiko 50mm f1,4</item>
+        <item>G. Zuiko 35mm f2,8</item>
+        <item>Zuiko 75-150mm f,4</item>
+        <item>Vivitar 135mm f2,8</item>
+    </string-array>
+    <!-- Distintas velocidades de obturación-->
+    <string-array name="velocidades_obturacion">
+        <item>B</item>
+        <item>1</item>
+        <item>1/2</item>
+        <item>1/4</item>
+        <item>1/8</item>
+        <item>1/15</item>
+        <item>1/30</item>
+        <item>1/60</item>
+        <item>1/125</item>
+        <item>1/250</item>
+        <item>1/500</item>
+        <item>1/1000</item>
+    </string-array>
+
+    <string-array name="lens_50mm14">
+        <item>1,4</item>
+        <item>2</item>
+        <item>2,8</item>
+        <item>4</item>
+        <item>5,6</item>
+        <item>8</item>
+        <item>11</item>
+        <item>16</item>
+    </string-array>
+
+    <string-array name="lens_35mm28">
+        <item>2,8</item>
+        <item>4</item>
+        <item>5,6</item>
+        <item>8</item>
+        <item>11</item>
+        <item>16</item>
+    </string-array>
+
+    <string-array name="lens_75mm4">
+        <item>4</item>
+        <item>5,6</item>
+        <item>8</item>
+        <item>11</item>
+        <item>16</item>
+    </string-array>
+    <string-array name="lens_135mm2">
+        <item>2,8</item>
+        <item>4</item>
+        <item>5,6</item>
+        <item>8</item>
+        <item>11</item>
+        <item>16</item>
+        <item>22</item>
+    </string-array>
+</resources>
